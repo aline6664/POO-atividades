@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.AssemblyInfo.cs
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.exe
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.deps.json
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.runtimeconfig.json
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.dll
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.pdb
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.dll
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\refint\VenderNoCaixa.dll
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.pdb
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.genruntimeconfig.cache
+C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\ref\VenderNoCaixa.dll

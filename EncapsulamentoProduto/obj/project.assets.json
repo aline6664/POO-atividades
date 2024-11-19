@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+      "projectUniqueName": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
       "projectName": "EncapsulamentoProduto",
-      "projectPath": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+      "projectPath": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
       "packagesPath": "C:\\Users\\gleyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\EncapsulamentoProduto\\obj\\",
+      "outputPath": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\EncapsulamentoProduto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gleyl\\AppData\\Roaming\\NuGet\\NuGet.Config"

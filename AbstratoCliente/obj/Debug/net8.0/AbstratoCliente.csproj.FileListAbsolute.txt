@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.exe
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.deps.json
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.runtimeconfig.json
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.dll
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.pdb
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.dll
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\refint\AbstratoCliente.dll
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.pdb
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO_manha\AbstratoCliente\obj\Debug\net8.0\ref\AbstratoCliente.dll

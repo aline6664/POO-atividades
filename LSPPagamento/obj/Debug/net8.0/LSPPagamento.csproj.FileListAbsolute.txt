@@ -1,0 +1,14 @@
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\LSPPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\LSPPagamento.AssemblyInfoInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\LSPPagamento.AssemblyInfo.cs
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\LSPPagamento.csproj.CoreCompileInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\bin\Debug\net8.0\LSPPagamento.exe
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\bin\Debug\net8.0\LSPPagamento.deps.json
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\bin\Debug\net8.0\LSPPagamento.runtimeconfig.json
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\bin\Debug\net8.0\LSPPagamento.dll
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\bin\Debug\net8.0\LSPPagamento.pdb
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\LSPPagamento.dll
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\refint\LSPPagamento.dll
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\LSPPagamento.pdb
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\LSPPagamento.genruntimeconfig.cache
+C:\Users\gleyl\Downloads\POO_manha\LSPPagamento\obj\Debug\net8.0\ref\LSPPagamento.dll

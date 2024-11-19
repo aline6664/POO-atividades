@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ConstrutorAluno\\ConstrutorAluno.csproj": {}
+    "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ConstrutorAluno\\ConstrutorAluno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ConstrutorAluno\\ConstrutorAluno.csproj": {
+    "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ConstrutorAluno\\ConstrutorAluno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ConstrutorAluno\\ConstrutorAluno.csproj",
+        "projectUniqueName": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ConstrutorAluno\\ConstrutorAluno.csproj",
         "projectName": "ConstrutorAluno",
-        "projectPath": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ConstrutorAluno\\ConstrutorAluno.csproj",
+        "projectPath": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ConstrutorAluno\\ConstrutorAluno.csproj",
         "packagesPath": "C:\\Users\\gleyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ConstrutorAluno\\obj\\",
+        "outputPath": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ConstrutorAluno\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gleyl\\AppData\\Roaming\\NuGet\\NuGet.Config"

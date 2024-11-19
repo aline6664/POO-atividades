@@ -1,0 +1,28 @@
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.exe
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.deps.json
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.runtimeconfig.json
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.dll
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.pdb
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.dll
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\refint\AbstratoProduto.dll
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.pdb
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO_manha\AbstratoProduto\obj\Debug\net8.0\ref\AbstratoProduto.dll
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.exe
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.deps.json
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.runtimeconfig.json
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.dll
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.pdb
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.AssemblyInfo.cs
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.dll
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\refint\AbstratoProduto.dll
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.pdb
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.genruntimeconfig.cache
+C:\Users\aluno\Downloads\2 Bimestre\AbstratoProduto\obj\Debug\net8.0\ref\AbstratoProduto.dll

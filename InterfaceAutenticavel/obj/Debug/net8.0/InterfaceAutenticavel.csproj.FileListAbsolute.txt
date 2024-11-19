@@ -1,0 +1,14 @@
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.AssemblyInfo.cs
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.exe
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.deps.json
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.runtimeconfig.json
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.dll
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.pdb
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.dll
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\refint\InterfaceAutenticavel.dll
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.pdb
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.genruntimeconfig.cache
+C:\Users\gleyl\Downloads\POO_manha\InterfaceAutenticavel\obj\Debug\net8.0\ref\InterfaceAutenticavel.dll

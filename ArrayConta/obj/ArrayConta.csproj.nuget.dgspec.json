@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ArrayConta\\ArrayConta.csproj": {}
+    "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ArrayConta\\ArrayConta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ArrayConta\\ArrayConta.csproj": {
+    "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ArrayConta\\ArrayConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ArrayConta\\ArrayConta.csproj",
+        "projectUniqueName": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ArrayConta\\ArrayConta.csproj",
         "projectName": "ArrayConta",
-        "projectPath": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ArrayConta\\ArrayConta.csproj",
+        "projectPath": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ArrayConta\\ArrayConta.csproj",
         "packagesPath": "C:\\Users\\gleyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gleyl\\Downloads\\1 Bimestre\\ArrayConta\\obj\\",
+        "outputPath": "C:\\Users\\gleyl\\Downloads\\2 Bimestre\\POO-atividades\\ArrayConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gleyl\\AppData\\Roaming\\NuGet\\NuGet.Config"

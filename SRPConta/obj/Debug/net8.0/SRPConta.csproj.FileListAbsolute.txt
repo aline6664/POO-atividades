@@ -1,0 +1,28 @@
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\SRPConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\SRPConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\SRPConta.AssemblyInfo.cs
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\SRPConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\bin\Debug\net8.0\SRPConta.exe
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\bin\Debug\net8.0\SRPConta.deps.json
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\bin\Debug\net8.0\SRPConta.runtimeconfig.json
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\bin\Debug\net8.0\SRPConta.dll
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\bin\Debug\net8.0\SRPConta.pdb
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\SRPConta.dll
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\refint\SRPConta.dll
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\SRPConta.pdb
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\SRPConta.genruntimeconfig.cache
+C:\Users\aluno\Downloads\2 Bimestre\SRPConta\obj\Debug\net8.0\ref\SRPConta.dll
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\SRPConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\SRPConta.AssemblyInfoInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\SRPConta.AssemblyInfo.cs
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\SRPConta.csproj.CoreCompileInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\SRPConta.dll
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\refint\SRPConta.dll
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\SRPConta.pdb
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\bin\Debug\net8.0\SRPConta.exe
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\bin\Debug\net8.0\SRPConta.deps.json
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\bin\Debug\net8.0\SRPConta.runtimeconfig.json
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\bin\Debug\net8.0\SRPConta.dll
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\bin\Debug\net8.0\SRPConta.pdb
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\SRPConta.genruntimeconfig.cache
+C:\Users\gleyl\Downloads\POO_manha\SRPConta\obj\Debug\net8.0\ref\SRPConta.dll
