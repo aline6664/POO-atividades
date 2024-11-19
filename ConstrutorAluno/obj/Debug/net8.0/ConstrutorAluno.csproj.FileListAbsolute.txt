@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.exe
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.deps.json
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.runtimeconfig.json
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.dll
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\bin\Debug\net8.0\ConstrutorAluno.pdb
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.dll
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\refint\ConstrutorAluno.dll
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.pdb
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO_manha\ConstrutorAluno\obj\Debug\net8.0\ref\ConstrutorAluno.dll

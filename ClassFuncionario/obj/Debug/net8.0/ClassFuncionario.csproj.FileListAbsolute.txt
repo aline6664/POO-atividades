@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\bin\Debug\net8.0\ClassFuncionario.exe
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\bin\Debug\net8.0\ClassFuncionario.deps.json
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\bin\Debug\net8.0\ClassFuncionario.runtimeconfig.json
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\bin\Debug\net8.0\ClassFuncionario.dll
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\bin\Debug\net8.0\ClassFuncionario.pdb
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ClassFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ClassFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ClassFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ClassFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ClassFuncionario.dll
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\refint\ClassFuncionario.dll
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ClassFuncionario.pdb
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ClassFuncionario.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO_manha\ClassFuncionario\obj\Debug\net8.0\ref\ClassFuncionario.dll

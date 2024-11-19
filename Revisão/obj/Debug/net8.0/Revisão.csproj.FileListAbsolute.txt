@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\POO_manha\Revisão\bin\Debug\net8.0\Revisão.exe
+C:\Users\aluno\Downloads\POO_manha\Revisão\bin\Debug\net8.0\Revisão.deps.json
+C:\Users\aluno\Downloads\POO_manha\Revisão\bin\Debug\net8.0\Revisão.runtimeconfig.json
+C:\Users\aluno\Downloads\POO_manha\Revisão\bin\Debug\net8.0\Revisão.dll
+C:\Users\aluno\Downloads\POO_manha\Revisão\bin\Debug\net8.0\Revisão.pdb
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\Revisão.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\Revisão.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\Revisão.dll
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\refint\Revisão.dll
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\Revisão.pdb
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\Revisão.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO_manha\Revisão\obj\Debug\net8.0\ref\Revisão.dll

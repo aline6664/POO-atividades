@@ -1,0 +1,14 @@
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.exe
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.deps.json
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.runtimeconfig.json
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.dll
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\bin\Debug\net8.0\ComposicaoBanco.pdb
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.AssemblyInfo.cs
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.dll
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\refint\ComposicaoBanco.dll
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.pdb
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ComposicaoBanco.genruntimeconfig.cache
+C:\Users\gleyl\Downloads\POO_manha\ComposicaoBanco\obj\Debug\net8.0\ref\ComposicaoBanco.dll
