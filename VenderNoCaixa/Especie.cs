@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Threading.Tasks;
 
 namespace VenderNoCaixa
@@ -22,7 +23,8 @@ namespace VenderNoCaixa
         // métodos
         public double CalcularTroco(double quantia)
         {
-            troco = quantia - base.total;
+            troco = quantia - Total;
+            System.Console.WriteLine(troco);
             return troco;
         }
         public override void MostrarDadosPagamento()

@@ -1,0 +1,15 @@
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.AssemblyInfoInputs.cache
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.AssemblyInfo.cs
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.csproj.CoreCompileInputs.cache
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.sourcelink.json
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\bin\Debug\net8.0\ExcecaoTeste.exe
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\bin\Debug\net8.0\ExcecaoTeste.deps.json
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\bin\Debug\net8.0\ExcecaoTeste.runtimeconfig.json
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\bin\Debug\net8.0\ExcecaoTeste.dll
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\bin\Debug\net8.0\ExcecaoTeste.pdb
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.dll
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\refint\ExcecaoTeste.dll
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.pdb
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ExcecaoTeste.genruntimeconfig.cache
+C:\Users\aluno\POO-atividades\Excecao\ExcecaoTeste\obj\Debug\net8.0\ref\ExcecaoTeste.dll

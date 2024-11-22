@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj": {}
+    "C:\\Users\\aluno\\POO-atividades\\Excecao\\ExcecaoTeste\\ExcecaoTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj": {
+    "C:\\Users\\aluno\\POO-atividades\\Excecao\\ExcecaoTeste\\ExcecaoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj",
-        "projectName": "VenderNoCaixa",
-        "projectPath": "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\POO-atividades\\Excecao\\ExcecaoTeste\\ExcecaoTeste.csproj",
+        "projectName": "ExcecaoTeste",
+        "projectPath": "C:\\Users\\aluno\\POO-atividades\\Excecao\\ExcecaoTeste\\ExcecaoTeste.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\POO-atividades\\Excecao\\ExcecaoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

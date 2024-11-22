@@ -12,3 +12,18 @@ C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\refint\Vender
 C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.pdb
 C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.genruntimeconfig.cache
 C:\Users\aluno\Downloads\2 Bimestre\VenderNoCaixa\obj\Debug\net8.0\ref\VenderNoCaixa.dll
+C:\Users\aluno\POO-atividades\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.exe
+C:\Users\aluno\POO-atividades\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.deps.json
+C:\Users\aluno\POO-atividades\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.runtimeconfig.json
+C:\Users\aluno\POO-atividades\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.dll
+C:\Users\aluno\POO-atividades\VenderNoCaixa\bin\Debug\net8.0\VenderNoCaixa.pdb
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.AssemblyInfoInputs.cache
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.AssemblyInfo.cs
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.sourcelink.json
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.dll
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\refint\VenderNoCaixa.dll
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.pdb
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\VenderNoCaixa.genruntimeconfig.cache
+C:\Users\aluno\POO-atividades\VenderNoCaixa\obj\Debug\net8.0\ref\VenderNoCaixa.dll

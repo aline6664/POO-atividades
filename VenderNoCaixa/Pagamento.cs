@@ -21,6 +21,14 @@ namespace VenderNoCaixa
             get { return total; }
             set { total = value; }
         }
+        public Pagamento()
+        {
+            
+        }
+        public Pagamento(double total)
+        {
+            Total = total;
+        }
         // métodos
         public virtual void MostrarDadosPagamento() {
             System.Console.WriteLine("Data: "+ data +"\nTotal: "+ total);
