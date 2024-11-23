@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 namespace VenderNoCaixa
 {
     // superclasse
-    public class Pagamento
+    public class Pagamento : IMetodoMostrar
     {
         // atributos
-        protected DateTime data;
+        protected DateTime data = DateTime.Now; // mostrar data atual
         public DateTime Data
         {
             get { return data; }
@@ -30,8 +30,8 @@ namespace VenderNoCaixa
             Total = total;
         }
         // métodos
-        public virtual void MostrarDadosPagamento() {
-            System.Console.WriteLine("Data: "+ data +"\nTotal: "+ total);
+        public virtual void MostrarDados() {
+            System.Console.WriteLine($"\nData:  {data} \nTotal: {total:c}");
         }
     }
 }

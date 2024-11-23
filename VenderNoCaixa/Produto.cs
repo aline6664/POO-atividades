@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace VenderNoCaixa
 {
-    public class Produto
+    public class Produto : IMetodoMostrar
     {
         private long codigo;
         public long Codigo
@@ -44,9 +44,9 @@ namespace VenderNoCaixa
             Estoque = estoque;
         }
         // métodos
-        public void MostrarDadosProduto()
+        public void MostrarDados()
         {
-            System.Console.WriteLine("Código: "+ codigo +"\tNome: "+ nome +$"\t\tPreço: {preco:c}\t\tEstoque: "+ estoque);
+            System.Console.WriteLine($"Código: {codigo} \tNome: {nome} \t\tPreço: {preco:c} \t\tEstoque: {estoque}");
         }
     }
 }

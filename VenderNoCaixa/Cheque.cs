@@ -19,7 +19,7 @@ namespace VenderNoCaixa
             get { return dataDeposito; }
             set { dataDeposito = value; }
         }
-        private int situacao;
+        private int situacao; // 1 = cheque disponível, 2 = cheque bloqueado
         public int Situacao
         {
             get { return situacao; }
@@ -30,24 +30,41 @@ namespace VenderNoCaixa
         {
             
         }
-        public Cheque(long numero)
+        public Cheque(double total, long numero, int situacao) : base(total)
         {
             Numero = numero;
+            Situacao = situacao;
         }
-        public bool VerificarSituacao(int situacao)
-        {
-            // 1 = cheque disponível, 2 = cheque bloqueado
+        public void ProcessarDadosCheque() {
             if (situacao == 1) {
-                return true;
+                CalcularDataDeposito();
+            }
+            else
+             System.Console.WriteLine("Cheque bloqueado. Processo cancelado.");
+        }
+        public void CalcularDataDeposito() {
+            if (total <= 299.99) { // se cheque for valor de ate R$ 299,99, compensado em 1 a 2 dias uteis
+                dataDeposito = data.AddDays(2);
+            }
+            else if (total > 299.99 && total <= 999.99) { // ate R$ 999,99, compensado em 2 a 3 dias uteis
+                dataDeposito = data.AddDays(3);
+            }
+            else { // valores maiores que R$ 999,99 chegam ate 5 dias uteis
+                dataDeposito = data.AddDays(5);
+            }
+        }
+        public override void MostrarDados()
+        {
+            base.MostrarDados();
+            System.Console.WriteLine("Número: "+ numero);
+            if (situacao == 1) {
+                string dataDepos = dataDeposito.ToString("dd/MM/yyyy"); // formatar para apenas data
+                System.Console.WriteLine("Data do Depósito: "+ dataDepos +"\tSituação: disponível");
             }
             else {
-                return false;
+                System.Console.WriteLine("Situação: bloqueado");
             }
-        }
-        public override void MostrarDadosPagamento()
-        {
-            base.MostrarDadosPagamento();
-            System.Console.WriteLine("Data do Depósito: "+ dataDeposito +"\t\tSituação: "+ situacao +"\n");
+            
         }
     }
 }

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace VenderNoCaixa
 {
-    public class ItemVenda
+    public class ItemVenda : IMetodoMostrar
     {
         // atributos
         private int quantidade;
@@ -26,15 +26,24 @@ namespace VenderNoCaixa
             get { return produto; }
             set { produto = value; }
         }
-        
         // construtor
         public ItemVenda()
         {
             
         }
-        public ItemVenda(int quantidade)
+        public ItemVenda(int quantidade, Produto produto)
         {
             Quantidade = quantidade;
+            Produto = produto;
+        }
+        // metodos
+        public double CalcularSubtotal() {
+            subtotal = quantidade * produto.Preco;
+            return subtotal;
+        }
+        public void MostrarDados()
+        {
+            System.Console.WriteLine($"Quantidade: {quantidade} \t\tNome: {produto.Nome} \t\tPreço: {produto.Preco:c} \t\tSubtotal: {subtotal:c}");
         }
     }
 }

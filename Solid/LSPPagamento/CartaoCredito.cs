@@ -19,13 +19,13 @@ namespace LSPPagamento
         public void ProcessarPagamento(decimal valor)
         {
             ValidarDetalhesPagamento(IdCartao, valor);
-            System.Console.WriteLine($"Processado pagamento de valor de {valor:c} do cartão: {IdCartao}");
+            System.Console.WriteLine($"Processado pagamento de valor de {valor:c}...}");
         }
         public void ValidarDetalhesPagamento(string idcartao, decimal valor)
         {
             if (string.IsNullOrWhiteSpace(idcartao))
                 System.Console.WriteLine("ID do cartão de crédito é requerido.");
-            if (valor <= 0)
+            if (valor <= 0 )
                 System.Console.WriteLine("Valor deve ser maior que zero.");
         }
     }

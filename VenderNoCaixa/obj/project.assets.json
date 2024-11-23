@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\gleyl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj",
+      "projectUniqueName": "C:\\Users\\gleyl\\Downloads\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj",
       "projectName": "VenderNoCaixa",
-      "projectPath": "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\POO-atividades\\VenderNoCaixa\\obj\\",
+      "projectPath": "C:\\Users\\gleyl\\Downloads\\POO-atividades\\VenderNoCaixa\\VenderNoCaixa.csproj",
+      "packagesPath": "C:\\Users\\gleyl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gleyl\\Downloads\\POO-atividades\\VenderNoCaixa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gleyl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

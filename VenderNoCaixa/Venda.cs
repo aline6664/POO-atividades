@@ -14,7 +14,7 @@ namespace VenderNoCaixa
             get { return codigo; }
             set { codigo = value; }
         }
-        private DateTime data;
+        private DateTime data = DateTime.Now; // mostrar data atual
         public DateTime Data
         {
             get { return data; }
@@ -34,10 +34,27 @@ namespace VenderNoCaixa
             set { vetItens = value; }
         }
         // métodos
-        public void MostrarDadosVenda()
+        public Venda()
+        {
+            // instância do vetor de itens assim que a venda é instanciada
+            VetItens = new List<ItemVenda>();
+        }
+        public double CalcularTotal() {
+            foreach (ItemVenda it in vetItens)
+                total += it.CalcularSubtotal();
+                return total;
+        }
+        public int CalcularQuantidadeTotal() {
+            int totalQuantidade = 0;
+            foreach (ItemVenda it in vetItens)
+                totalQuantidade += it.Quantidade;
+            return totalQuantidade;
+        }
+        public void MostrarDados()
         {
             foreach (ItemVenda it in vetItens)
-                System.Console.WriteLine(it);
+               it.MostrarDados();
+            System.Console.WriteLine($"Valor Total: {total:c}");
         }
     }
 }

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
 namespace VenderNoCaixa
@@ -20,17 +21,30 @@ namespace VenderNoCaixa
             get { return troco; }
             set { troco = value; }
         }
+        // construtor
+        public Especie()
+        {
+            
+        }
+        public Especie(double total) : base(total)
+        {
+            
+        }
         // métodos
         public double CalcularTroco(double quantia)
         {
-            troco = quantia - Total;
-            System.Console.WriteLine(troco);
-            return troco;
+            if (quantia >= total) {
+                troco = quantia - Total;
+                return troco;
+            }
+            else {
+                return -1; // caso troco seja negativo (quantia menor que valor total)
+            }
         }
-        public override void MostrarDadosPagamento()
+        public override void MostrarDados()
         {
-            base.MostrarDadosPagamento();
-            System.Console.WriteLine("Quantia fornecida: "+ quantia +"\t\tTroco: "+ troco +"\n");
+            base.MostrarDados();
+            System.Console.WriteLine($"Quantia fornecida: {quantia:c} \t\tTroco: {troco:c} \n");
         }
     }
 }
